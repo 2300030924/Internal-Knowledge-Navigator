@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+__pycache__/
+
+# Local vector DB / generated files
+chroma_db/
+
+# Zip files
+*.zip
