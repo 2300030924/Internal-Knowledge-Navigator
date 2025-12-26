@@ -1,0 +1,4 @@
+{
+  "query": "compare contract 1 and contract 2",
+  "description": "User's natural language input to the agent, such as 'summarize nda agreement' or 'show folder structure'."
+}

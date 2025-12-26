@@ -1,0 +1,15 @@
+# Core dependencies
+python-dotenv
+chromadb
+google-generativeai
+langchain
+PyMuPDF
+pdfplumber
+tqdm
+streamlit
+flask
+requests
+
+# Optional utilities
+pandas
+numpy
