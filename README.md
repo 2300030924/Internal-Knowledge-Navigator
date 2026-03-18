@@ -40,4 +40,3 @@ This follows a **Retrieval-Augmented Generation (RAG)** approach.
 
 ---
 
-## 📂 Project Structure
